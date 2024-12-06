@@ -1,0 +1,12 @@
+name: PDGHAjuda
+main: me.mchiappinam.pdghajuda.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   comandos:
+      description: Info.
+      usage: /<command>
+   ajuda:
+      description: Info.
+      usage: /<command>
